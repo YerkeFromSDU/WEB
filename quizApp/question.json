@@ -1,0 +1,26 @@
+[
+    {
+        "question": "Whats my name?",
+        "choice1": "Yerke",
+        "choice2": "Nazerke",
+        "choice3": "Saya",
+        "choice4":"Tommy",
+        "answer": 1
+    },
+    {
+        "question": "What's my favorite bakery?",
+        "choice1": "Napoleon",
+        "choice2": "Danish",
+        "choice3": "Whoppie pie",
+        "choice4":"I don't like any bakery",
+        "answer": 2
+    },
+    {
+        "question": "What's my least favorite thing in frontend?",
+        "choice1": "JS",
+        "choice2": "HTML",
+        "choice3": "CSS",
+        "choice4":"Fetch API",
+        "answer": 4
+    }
+]
